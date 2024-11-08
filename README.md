@@ -1,2 +1,2 @@
-# cursoloco
-Mi primer repo
+# Proyecto Prueba
+Mi primer prueba ajo
